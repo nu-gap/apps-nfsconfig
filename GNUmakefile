@@ -49,6 +49,7 @@ include $(GNUSTEP_MAKEFILES)/common.make
 
 # The application to be compiled
 APP_NAME = NFSConfig
+NFSConfig_APPLICATION_ICON = NFSConfig.png
 
 # The Objective-C source files to be compiled
 NFSConfig_OBJC_FILES = NFSConfig_main.m \
@@ -60,7 +61,8 @@ NFSConfig_OBJC_FILES = NFSConfig_main.m \
 
 # The Resource files to be copied into the app's resources directory
 NFSConfig_RESOURCE_FILES = \
-                   English.lproj/NFSConfig.gorm 
+                   English.lproj/NFSConfig.gorm \
+                   NFSConfig.png
 
 
 -include GNUmakefile.preamble

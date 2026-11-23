@@ -1,0 +1,9 @@
+Generated using the built-in image_gen tool.
+
+Use case: logo-brand
+Asset type: GNUstep desktop application icon, square 1024 by 1024 transparent PNG.
+Primary request: Create a polished icon for NFSConfig, a utility for configuring Network File System shares.
+Subject: one classic file folder resting against a compact network disk, with a small metal wrench diagonally in the foreground indicating configuration and a simple network connector beneath indicating shared storage. Unify into one compact readable silhouette, no scattered elements.
+Style: classic NeXTSTEP / GNUstep desktop object icon, carefully crafted dimensional pixel-conscious illustration, restrained metallic gray and warm folder tones, crisp dark edges and subtle beveled highlights. Simple enough to read at 48 pixels. Front-facing with slight isometric depth. Large clear shapes, minimal detail.
+Composition: centered object fills 85 percent of square, generous clear outer margin, no clipping.
+Constraints: actual transparent background, no background tile, no text or letters, no watermark, no decorative scenery, no excessive shadows.
